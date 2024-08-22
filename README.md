@@ -3,16 +3,18 @@ To create a label, the noise will be removed from the images first by using the 
 the next step of the project is to train the Unet network with the created labels and their corresponding bright field images. This network will then take bright field test images only and do soma segmentation on the image as the output. This method will pave the way for automatic cell analysis in complex bright field culture images
 without damaging the cell structure.
 
-Creating the labels
+##Creating the labels
 - Soma detection
 - Soma Segmentation
-Creating subimages
+##Creating subimages
 - Preprocessing
 - Soma detection
-Segmentation framework
+##Segmentation framework
 - U-net
-
-![Project Overview](https://github.com/ilknurakcay/Neuron_analysis/blob/main/project_overview.png)
+- 
+<p align="center">
+  <img src="https://github.com/ilknurakcay/Neuron_analysis/blob/main/project_overview.png)" alt="Ekran Görüntüsü" />
+</p>
 
 
 
