@@ -4,15 +4,16 @@ the next step of the project is to train the Unet network with the created label
 without damaging the cell structure.
 
 Creating the labels
--Soma detection
--Soma Segmentation
+- Soma detection
+- Soma Segmentation
 Creating subimages
--Preprocessing
--Soma detection
+- Preprocessing
+- Soma detection
 Segmentation framework
--U-net
+- U-net
 
-![Uygulama Ekran Görüntüsü]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/ilknurakcay/Neuron_analysis/blob/main/project_overview.png))
+![Project Overview](https://github.com/ilknurakcay/Neuron_analysis/blob/main/project_overview.png)
+
 
 
 
