@@ -12,5 +12,8 @@ Creating subimages
 Segmentation framework
 -U-net
 
+![Uygulama Ekran Görüntüsü]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/ilknurakcay/Neuron_analysis/blob/main/project_overview.png))
+
+
 
 
